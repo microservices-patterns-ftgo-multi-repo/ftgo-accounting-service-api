@@ -1,0 +1,2 @@
+  include "ftgo-accounting-service-api"
+  include "ftgo-accounting-service-contracts"
